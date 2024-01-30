@@ -1,4 +1,6 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=Waving&color=0:f7c4c4,100:e3c4f7&text=Welcome%20to%20SeoYeon's%20Github!&fontColor=5e4461&fontSize=40&fontAlignY=37&height=180&animation=fadeIn)
+
+## 👋 Hi there
 
 <!--
 **SeoYeonnLee/SeoYeonnLee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![footer](https://capsule-render.vercel.app/api?section=footer&type=Waving&&color=0:f7c4c4,100:e3c4f7&height=100)
