@@ -2,8 +2,11 @@
 
 ## 👋 Hi there
 Hello, I'm SeoYeon Lee, dreaming of becoming an AI Developer.<br/>
+
 I am majoring in AI Big Data & Management and minoring in Software at Kookmin University.<br/>
+
 I am interested in Computer vision, Multi-Modal, and Explainable AI.
+
 
 <!--
 **SeoYeonnLee/SeoYeonnLee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
