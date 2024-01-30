@@ -7,24 +7,14 @@ I am majoring in AI Big Data & Management and minoring in Software at Kookmin Un
 
 I am interested in Computer vision, Multi-Modal, and Explainable AI.
 
+<br/>
 
-<!--
-**SeoYeonnLee/SeoYeonnLee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📞 Contact
+<a href="lsyeon0223@gmail.com"><img src="https://img.shields.io/badge/lsyeon0223@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=ffffff"></a>
+<a href="https://www.instagram.com/s_ynxn/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=ffffff">
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<br>
-<br>
-<br>
+<br/>
+<br/>
+<br/>
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=Waving&&color=0:ff5050,100:be58ff&height=100)
