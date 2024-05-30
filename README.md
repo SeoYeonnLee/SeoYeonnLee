@@ -11,7 +11,6 @@ I am interested in Computer vision, Multi-Modal, and Explainable AI.
 
 ## 📞 Contact
 <a href="lsyeon0223@gmail.com"><img src="https://img.shields.io/badge/lsyeon0223@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=ffffff"></a>
-<a href="https://www.instagram.com/s_ynxn/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=ffffff">
 
 <br/>
 
