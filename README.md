@@ -30,7 +30,6 @@ I am interested in Computer vision, Multi-Modal, and Explainable AI.
 <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=ffffff"></a>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=ffffff"></a>
 <img src="https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=QGIS&logoColor=ffffff"></a>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=Streamlit&logoColor=ffffff"></a>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=ffffff"></a>
 
 #### 🪄 Platform
