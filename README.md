@@ -20,6 +20,7 @@ I am interested in Computer vision, Multi-Modal, and Explainable AI.
 <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=ffffff"></a>
 <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=MySQL&logoColor=ffffff"></a>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=ffffff"></a>
+<img src="https://img.shields.io/badge/Langchain-1C3C3C?style=flat-square&logo=langchain&logoColor=ffffff"></a>
 
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=ffffff"></a>
 <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=ffffff"></a>
