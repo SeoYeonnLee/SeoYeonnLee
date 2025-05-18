@@ -4,12 +4,12 @@
 ## 👋 Hi there
 Hello, I'm SeoYeon Lee, dreaming of becoming an AI Researcher.<br/>
 I am majoring in AI Big Data & Management and minoring in Software at Kookmin University.<br/>
-I am interested in Computer vision, Multi-Modal, and Explainable AI.
+I am interested in Diffusion Models, Generative AI, Computer vision, and Multi-modal Learning.
 
 <br/>
 
 ## 📞 Contact
-<a href="lsyeon0223@gmail.com"><img src="https://img.shields.io/badge/lsyeon0223@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=ffffff"></a>
+<a href="tjdus0223@kookmin.ac.kr"><img src="https://img.shields.io/badge/tjdus0223@kookmin.ac.kr-EA4335?style=flat-square&logo=Gmail&logoColor=ffffff"></a>
 
 <br/>
 
@@ -28,7 +28,6 @@ I am interested in Computer vision, Multi-Modal, and Explainable AI.
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff"></a>
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=ffffff"></a>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=ffffff"></a>
-<img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=ffffff"></a>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=ffffff"></a>
 <img src="https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=QGIS&logoColor=ffffff"></a>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=ffffff"></a>
