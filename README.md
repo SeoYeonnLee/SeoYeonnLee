@@ -4,7 +4,7 @@
 ## 👋 Hi there
 Hello, I'm SeoYeon Lee, dreaming of becoming an AI Researcher.<br/>
 I am majoring in AI Big Data & Management and minoring in Software at Kookmin University.<br/>
-I am interested in Diffusion Models, Generative AI, Computer vision, and Multi-modal Learning.
+I am interested in Diffusion Models, Computer vision, and Multi-modal Learning.
 
 <br/>
 
